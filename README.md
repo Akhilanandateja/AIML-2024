@@ -4,6 +4,7 @@
 [Lab02] [https://github.com/Akhilanandateja/AIML-2024/blob/main/AIML_A2.pdf] <br>
 [Lab03] [https://github.com/Akhilanandateja/AIML-2024/blob/main/AIML_A3.pdf] <br>
 [Lab04] [https://github.com/Akhilanandateja/AIML-2024/blob/main/AIML_A4.pdf] <br>
+[Lab05] [https://github.com/Akhilanandateja/AIML-2024/blob/main/AIML_A5.pdf] <br>
 
 # Lab code Notebooks <br>
 [Lab01] [https://github.com/Akhilanandateja/AIML-2024/blob/main/Lab01.ipynb]<br>
