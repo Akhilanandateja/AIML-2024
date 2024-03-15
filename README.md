@@ -8,7 +8,9 @@
 
 # Lab code Notebooks <br>
 [Lab01] [https://github.com/Akhilanandateja/AIML-2024/blob/main/Lab01.ipynb]<br>
-[Lab02] [https://github.com/Akhilanandateja/AIML-2024/blob/main/Lab2.ipynb]
+[Lab02] [https://github.com/Akhilanandateja/AIML-2024/blob/main/Lab2.ipynb] <br>
+[Lab03] [https://github.com/Akhilanandateja/AIML-2024/blob/main/Lab03.ipynb] <br>
+
 
 
 
