@@ -18,7 +18,7 @@
 [Lab05] [https://github.com/Akhilanandateja/AIML-2024/blob/main/Lab05.ipynb] <br>
 [Lab06] [https://github.com/Akhilanandateja/AIML-2024/blob/main/Lab06.ipynb] <br>
 [Lab07] [https://github.com/Akhilanandateja/AIML-2024/blob/main/Lab07.ipynb] <br>
-[Lab08] [
+[Lab08] [https://github.com/Akhilanandateja/AIML-2024/blob/main/Lab08.ipynb] <br>
 
 
 
