@@ -8,6 +8,8 @@
 [Lab06] [https://github.com/Akhilanandateja/AIML-2024/blob/main/AIML_A6.pdf] <br>
 [Lab07] [https://github.com/Akhilanandateja/AIML-2024/blob/main/AIML_A7.pdf] <br>
 [Lab08] [https://github.com/Akhilanandateja/AIML-2024/blob/main/AIML_A8.pdf] <br>
+[Lab09] [https://github.com/Akhilanandateja/AIML-2024/blob/main/AIML_A9.pdf] <br>
+
 
 
 # Lab code Notebooks <br>
@@ -19,6 +21,8 @@
 [Lab06] [https://github.com/Akhilanandateja/AIML-2024/blob/main/Lab06.ipynb] <br>
 [Lab07] [https://github.com/Akhilanandateja/AIML-2024/blob/main/Lab07.ipynb] <br>
 [Lab08] [https://github.com/Akhilanandateja/AIML-2024/blob/main/Lab08.ipynb] <br>
+[Lab09] [https://github.com/Akhilanandateja/AIML-2024/blob/main/Lab09.ipynb] <br>
+
 
 
 
